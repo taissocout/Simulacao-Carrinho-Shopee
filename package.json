@@ -1,0 +1,13 @@
+{
+  "name": "simulacao-carrinho-shopee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mains.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Taisso Cout <taissocout@gmail.com> (https://github.com/taissocout)",
+  "license": "MIT"
+}
